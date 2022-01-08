@@ -1,3 +1,56 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 50px;
+    
+}
+.orange-color{
+    color: orange;
+}
+
+.flex{
+    display: flex;
+    margin-bottom: 150px;
+}
+.mission-added{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.mission-added img{
+    width: 60%;
+    background-image: url(images/shapes/shape-4.png);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: rgba(255, 166, 0, 0.527);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.orange-inline{
+    color: orange;
+}
+#inline{
+    text-align: center;
+}
+.shadow{
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 5%;
+    box-shadow: 10px 10px 20px rgb(151, 86, 26);
+      
+}
+.pera{
+    background-image: linear-gradient(orange,red);
+}
+.valo{
+    background-image: linear-gradient(orange,gray);
+}
+.lage{
+    background-image: linear-gradient(gray,red);
+}

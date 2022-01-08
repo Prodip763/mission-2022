@@ -41,16 +41,33 @@ h1{
     width: 40%;
     margin-left: 10px;
     margin-right: 10px;
-    padding-left: 5%;
+    padding-left: 15px;
     box-shadow: 10px 10px 20px rgb(151, 86, 26);
       
 }
 .pera{
     background-image: linear-gradient(orange,red);
+    border-radius: 5px;
 }
 .valo{
     background-image: linear-gradient(orange,gray);
+    border-radius: 5px;
 }
 .lage{
     background-image: linear-gradient(gray,red);
+    border-radius: 5px;
+}
+h2{
+    font-size: 40px;
+}
+
+.inline-box{
+    text-align: center;
+    
+
+}
+#last{
+    background-color: black;
+    color: white;
+
 }
